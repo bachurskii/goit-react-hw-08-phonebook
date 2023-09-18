@@ -10,6 +10,5 @@ const HomePage = () => {
     </WrapperHomePage>
   );
 };
-const AppId = 
 
 export default HomePage;
